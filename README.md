@@ -1,5 +1,4 @@
-《Go入门指南》
-===================
+# 《Go入门指南》
 
 在接触 Go 语言之后，对这门编程语言非常着迷，期间也陆陆续续开始一些帮助国内编程爱好者了解和发展 Go 语言的工作，比如开始录制视频教程[《Go编程基础》](https://github.com/Unknwon/go-fundamental-programming)。但由于目前国内并没有比较好的 Go 语言书籍，而国外的优秀书籍因为英文的缘故在一定程度上也为不少 Go 语言爱好者带来了一些学习上的困扰，不仅为了加快扩散 Go 爱好者的国内群体，本人在完成阅读这本名叫 《The Way to Go》 之后，决定每天抽出一点时间来进行翻译的工作，并且以开源的形式免费分享给有需要的 Go 语言爱好者。
 
@@ -9,11 +8,11 @@
 
 ## 翻译进度
 
-19.10 [总结和增强](eBook/19.10.md)
+19.10 [总结和增强](ebook/19.10.md)
 
 ## 支持本书
 
-如果你喜欢本书 《Go入门指南》，你可以参与到本书的翻译或纠正工作中来，具体请联系【无闻 E-mail：u#gogs.io】，一同完善本书并帮助壮大 Go 语言在国内的学习群体，给大家提供更好的学习资源。
+如果你喜欢本书 《Go入门指南》，你可以参与到本书的翻译或纠正工作中来，具体请联系【无闻 E-mail：u\#gogs.io】，一同完善本书并帮助壮大 Go 语言在国内的学习群体，给大家提供更好的学习资源。
 
 ## 交流社区
 
@@ -21,24 +20,24 @@
 
 ### 新人守则
 
-- 2012 年 3 月 28 日以前的博文中的内容基本过时，不要再看
-- 符合等式 ***百度+思考+失败+翻墙+谷歌+尝试=解决*** 的问题最好不要发问
+* 2012 年 3 月 28 日以前的博文中的内容基本过时，不要再看
+* 符合等式 _**百度+思考+失败+翻墙+谷歌+尝试=解决**_ 的问题最好不要发问
 
 ## 致谢
 
-- 本书原作者：Ivo Balbaert
-- 参与翻译人员：
-	- [@zhanming](https://github.com/zhanming)
-	- themorecolor
-	- [@everyx](https://github.com/everyx)
-	- [@chidouhu](https://github.com/chidouhu)
-	- [@spawnris](https://github.com/spawnris)
-	- [@domainname](https://github.com/domainname)
-	- [@leisore](https://github.com/leisore)
-	- [@dake](https://github.com/dake)
-	- [@glight2000](https://github.com/glight2000)
-	- [@songleo](https://github.com/songleo)
-	- [@marjune163](https://github.com/marjune163)
+* 本书原作者：Ivo Balbaert
+* 参与翻译人员：
+  * [@zhanming](https://github.com/zhanming)
+  * themorecolor
+  * [@everyx](https://github.com/everyx)
+  * [@chidouhu](https://github.com/chidouhu)
+  * [@spawnris](https://github.com/spawnris)
+  * [@domainname](https://github.com/domainname)
+  * [@leisore](https://github.com/leisore)
+  * [@dake](https://github.com/dake)
+  * [@glight2000](https://github.com/glight2000)
+  * [@songleo](https://github.com/songleo)
+  * [@marjune163](https://github.com/marjune163)
 
 ## 授权许可
 
@@ -46,8 +45,8 @@
 
 ## 开始阅读
 
-- 您可以选择以下方式阅读本书：
-  - [GitHub在线](./eBook/preface.md)
+* 您可以选择以下方式阅读本书：
+  * [GitHub在线](ebook/preface.md)
 
-想读书的人，不会找不到 [目录](eBook/directory.md) :)
+想读书的人，不会找不到 [目录](ebook/directory.md) :\)
 
